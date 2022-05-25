@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on:
   - https://github.com/bossiernesto/functional_rb 
   - https://github.com/bossiernesto/extreme_dynamic
-  - https://github.com/bossiernesto/cuadernos
-  - https://github.com/bossiernesto/iasc-guilds-ruby
+  - https://github.com/bossiernesto/cspec
   - https://github.com/arquitecturas-concurrentes/iasc-book
 
 
